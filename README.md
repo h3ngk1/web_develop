@@ -1,2 +1,2 @@
 # web_develop
-# Pictures are from Google
+# All pictures is from Google
